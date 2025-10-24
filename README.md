@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm Kiran 👋</h1>
+<h1 align="center">Hi there, I'm Kiran </h1>
 
 <p align="center">
-  💻 Web Developer | 🚀 Open Source Enthusiast | 🌱 GSoC 2026 Aspirant
+  💻 Web Developer | Open Source Enthusiast |  GSoC 2026 Aspirant
 </p>
 
 ---
 
-### 🧩 About Me
+### About Me
 
-- 🧠 Passionate about **Web Development** and **Open Source**  
-- 🌍 Exploring contributions for **Google Summer of Code 2026**  
-- 🧑‍💻 Experienced with **JavaScript, HTML, CSS, Tailwind CSS**  
-- ⚡ Currently learning modern frameworks & improving problem-solving  
-- 💬 Always open to collaboration and learning from the community  
+- Passionate about **Web Development** and **Open Source**  
+- Exploring contributions for **Google Summer of Code 2026**  
+- Experienced with **JavaScript, HTML, CSS, Tailwind CSS**  
+- Currently learning modern frameworks & improving problem-solving  
+- Always open to collaboration and learning from the community  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode,linux" />
@@ -24,15 +24,15 @@
 
 ---
 
-### 🚀 My Current Focus
+### My Current Focus
 
-- 🌱 Preparing for **Google Summer of Code 2026**
-- 💡 Building real-world projects & contributing to open source
-- 📚 Improving code quality and collaboration skills
+- Preparing for **Google Summer of Code 2026**
+- Building real-world projects & contributing to open source
+- Improving code quality and collaboration skills
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keranbyge&show_icons=true&theme=tokyonight" height="150"/>
@@ -41,7 +41,7 @@
 
 ---
 
-### 🏆 Achievements & Activity
+### Achievements & Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=keranbyge&theme=tokyonight&no-bg=true&no-frame=true&row=1" />
@@ -49,7 +49,7 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://x.com/keranbyge"><img src="https://skillicons.dev/icons?i=twitter" /></a>
