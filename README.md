@@ -4,7 +4,7 @@
 
 ---
 
-### 🧭 About
+###  About
 - Exploring **Open Source** and contributing to real-world projects.
 - Experienced in **JavaScript, HTML, CSS, Tailwind CSS**.
 - Learning modern frameworks like **React**.
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 Stats
+###  Stats
 ![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keranbyge&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keranbyge&layout=compact&theme=github_dark)
 
