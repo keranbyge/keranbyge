@@ -1,70 +1,53 @@
-<h1 align="center">Hi there, I'm Kiran </h1>
+# Hi, I’m Kiran 
 
-<p align="center">
-  💻 Web Developer | Open Source Enthusiast |  GSoC 2026 Aspirant
-</p>
-
----
-
-### About Me
-
-- Passionate about **Web Development** and **Open Source**  
-- Exploring contributions for **Google Summer of Code 2026**  
-- Experienced with **JavaScript, HTML, CSS, Tailwind CSS**  
-- Currently learning modern frameworks & improving problem-solving  
-- Always open to collaboration and learning from the community  
+**Open-source enthusiast · GSoC aspirant**  
+Currently learning modern web frameworks and building projects.
 
 ---
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode,linux" />
-</p>
+## 🔭 About Me
+- Passionate about **Web Development** and **Open Source**
+- Experienced with **JavaScript, HTML, CSS, Tailwind CSS**
+- Preparing for **Google Summer of Code 2026**
+- Always open to collaboration and learning from the community
 
 ---
 
-### My Current Focus
+##  Tech Stack
+<!-- Use icons or shields; you can swap these with other icons you prefer -->
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) 
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) 
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwindcss)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) 
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)
 
+---
+
+##  My Current Focus
 - Preparing for **Google Summer of Code 2026**
 - Building real-world projects & contributing to open source
 - Improving code quality and collaboration skills
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keranbyge&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keranbyge&layout=compact&theme=tokyonight" height="150"/>
-</p>
+## 🔭 Projects (Pinned)
+You can pin repos on your profile UI. Example repos:
+- `project-one` — short description
+- `project-two` — short description
 
 ---
 
-### Achievements & Activity
+##  GitHub Stats
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keranbyge&theme=tokyonight&no-bg=true&no-frame=true&row=1" />
-</p>
-
----
-
-### Connect With Me
-
-<p align="center">
-  <a href="https://x.com/keranbyge"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:sunkusaikiran@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keranbyge&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+## 🗓️ Contribution Activity
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark)
 
-<p align="center">
-  ⭐️ *Code. Contribute. Create.* ⭐️
-</p>
+---
+
+*Thanks for visiting — always open to collab!*  
