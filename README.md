@@ -1,4 +1,4 @@
-# Kiran
+# Keran
 
 > Open-source enthusiast · Web Developer · GSoC 2026 Aspirant
 
