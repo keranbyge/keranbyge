@@ -29,7 +29,7 @@
 
 ---
 
-### 📬 Connect
+###  Connect
 [![X](https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white)](https://x.com/keranbyge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-kiran-32316932b)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunkusaikiran@gmail.com)
