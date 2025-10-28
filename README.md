@@ -6,8 +6,7 @@
 
 ###  About
 - Exploring **Open Source** and contributing to real-world projects.
-- Experienced in **JavaScript, HTML, CSS, Tailwind CSS**.
-- Learning modern frameworks like **React**.
+- Experienced in **JavaScript, HTML, CSS,React,rust,Tailwind CSS**.
 - Preparing for **Google Summer of Code 2026**.
 
 ---
