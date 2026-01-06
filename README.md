@@ -17,30 +17,21 @@
   Full Stack Developer | Building End-to-End Applications
 </h3>
 
-<!-- THIN MOVING RED LINE -->
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="100%"
-    height="2"
-  />
-</p>
-
 ---
 
 ## ▾ Socials
-<details>
-  <summary><b>Click to view</b></summary>
-  <br>
 
+<p>
   <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</details>
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -86,3 +77,6 @@
 </p>
 
 ---
+
+
+<h3 align="center">Thanks for stopping by 😊</h3>
