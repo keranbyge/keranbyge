@@ -6,10 +6,10 @@
 
 <!-- THIN MOVING RED LINE -->
 <p align="center">
-  <img 
+  <img
     src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="100%" 
-    height="6"
+    width="100%"
+    height="2"
   />
 </p>
 
@@ -19,10 +19,10 @@
 
 <!-- THIN MOVING RED LINE -->
 <p align="center">
-  <img 
+  <img
     src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="100%" 
-    height="6"
+    width="100%"
+    height="2"
   />
 </p>
 
@@ -42,7 +42,7 @@
 
 ## ▾ Skills & Tools
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/JAVA-E67E22?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/CLOUDINARY-34495E?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -74,26 +74,18 @@
 
 <!-- THIN MOVING RED LINE -->
 <p align="center">
-  <img 
+  <img
     src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="100%" 
-    height="6"
+    width="100%"
+    height="2"
   />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ## 📈 My Contributions
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=ff0000&point=ffffff&area=true&hide_border=true"
   />
 </p>
