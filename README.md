@@ -4,11 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-<!-- THIN MOVING RED LINE -->
+<!-- SHORT CENTERED RED LINE -->
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="100%"
+    width="70%"
     height="2"
   />
 </p>
@@ -17,15 +17,24 @@
   Full Stack Developer | Building End-to-End Applications
 </h3>
 
+<!-- SHORT CENTERED RED LINE -->
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    width="70%"
+    height="2"
+  />
+</p>
+
 ---
 
 ## ▾ Socials
 
 <p>
-  <a href="https://x.com/https://x.com/keranbyge" target="_blank">
+  <a href="https://x.com/keranbyge" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://https://www.linkedin.com/in/sai-kiran-32316932b/" target="_blank">
+  <a href="https://www.linkedin.com/in/sai-kiran-32316932b//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -64,11 +73,11 @@
   <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-<!-- THIN MOVING RED LINE -->
+<!-- SHORT CENTERED RED LINE -->
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="100%"
+    width="70%"
     height="2"
   />
 </p>
