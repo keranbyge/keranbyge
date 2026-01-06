@@ -4,16 +4,26 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
+<!-- MOVING RED LINE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    width="100%" 
+    height="4"
+  />
 </p>
 
 <h3 align="center">
   Full Stack Developer | Building End-to-End Applications
 </h3>
 
+<!-- MOVING RED LINE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    width="100%" 
+    height="4"
+  />
 </p>
 
 ---
@@ -35,8 +45,13 @@
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,firebase,mysql,mongodb,redis,docker,git,github,linux,js,html,css,postman,supabase" />
 </p>
 
+<!-- MOVING RED LINE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="3"/>
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    width="100%" 
+    height="4"
+  />
 </p>
 
 ---
