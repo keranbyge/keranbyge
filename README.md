@@ -1,34 +1,54 @@
-# Keran
+<h1 align="center">Hey there 👋, I'm Sai Kiran</h1>
+<h3 align="center">Full Stack Developer | Building Real-World Applications</h3>
 
-> Open-source enthusiast · Web Developer · GSoC 2026 Aspirant
-
----
-
-###  About
-- Exploring **Open Source** and contributing to real-world projects.
-- Experienced in **JavaScript, HTML, CSS,React,rust,Tailwind CSS**.
-- Preparing for **Google Summer of Code 2026**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### ⚙️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+## 🌐 Socials
+<p align="left">
+  <a href="https://instagram.com/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-###  Stats
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keranbyge&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keranbyge&layout=compact&theme=github_dark)
+## 🛠️ Skills & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,firebase,mysql,mongodb,redis,docker,git,github,linux,js,html,css,postman" />
+</p>
 
 ---
 
-###  Connect
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?logo=x&logoColor=white)](https://x.com/keranbyge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-kiran-32316932b)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunkusaikiran@gmail.com)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Pinned Projects
+- 🔗 **Project One** – Short description  
+- 🔗 **Project Two** – Short description  
+- 🔗 **Project Three** – Short description  
+
+---
+
+<h3 align="center">Thanks for stopping by 😊</h3>
