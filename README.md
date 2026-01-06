@@ -83,13 +83,3 @@
 
 ---
 
-## 📈 My Contributions
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=ff0000&point=ffffff&area=true&hide_border=true"
-  />
-</p>
-
----
-
-<h3 align="center">Thanks for stopping by 😊</h3>
