@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Sai Kiran</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+
 
 <!-- SHORT CENTERED RED LINE -->
 <p align="center">
