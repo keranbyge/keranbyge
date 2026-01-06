@@ -22,10 +22,10 @@
 ## ▾ Socials
 
 <p>
-  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+  <a href="https://x.com/https://x.com/keranbyge" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://https://www.linkedin.com/in/sai-kiran-32316932b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
