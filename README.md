@@ -1,6 +1,6 @@
-<!-- TOP BANNER IMAGE -->
+<!-- BIG HERO BANNER (like Ritik's) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RitikRawal07/RitikRawal07/main/assets/banner.png" />
+  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80" />
 </p>
 
 <h1 align="center">Hey there 👋 I'm Sai Kiran</h1>
