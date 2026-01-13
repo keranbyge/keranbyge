@@ -1,6 +1,9 @@
+<!-- TOP BANNER IMAGE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RitikRawal07/RitikRawal07/main/assets/banner.png" />
+</p>
+
 <h1 align="center">Hey there 👋 I'm Sai Kiran</h1>
-
-
 
 <!-- SHORT CENTERED RED LINE -->
 <p align="center">
@@ -81,6 +84,5 @@
 </p>
 
 ---
-
 
 <h3 align="center">Thanks for stopping by 😊</h3>
