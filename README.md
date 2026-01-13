@@ -6,7 +6,6 @@
   />
 </p>
 
-<h1 align="center">Hey there 👋 I'm Sai Kiran</h1>
 
 <!-- SHORT CENTERED RED LINE -->
 <p align="center">
