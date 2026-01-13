@@ -1,6 +1,9 @@
-<!-- BIG HERO BANNER (like Ritik's) -->
+<!-- FIXED SIZE HERO BANNER (Like Ritik) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1600&q=80" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:2b1055,100:7597de&height=180&section=header&text=Hi,%20I'm%20Sai%20Kiran&fontSize=42&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hey there 👋 I'm Sai Kiran</h1>
@@ -35,7 +38,7 @@
   <a href="https://x.com/keranbyge" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sai-kiran-32316932b//" target="_blank">
+  <a href="https://www.linkedin.com/in/sai-kiran-32316932b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
