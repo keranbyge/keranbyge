@@ -1,4 +1,4 @@
-<!-- FIXED SIZE HERO BANNER -->
+<!-- HERO BANNER -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=0:2b1055,100:7597de&height=180&section=header&text=Hi,%20I'm%20Sai%20Kiran&fontSize=42&fontColor=ffffff&animation=fadeIn"
@@ -6,7 +6,6 @@
   />
 </p>
 
-<!-- Animated Divider -->
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
@@ -48,7 +47,7 @@
 ## ▾ Skills & Tools
 
 <p align="center">
-  <img src="skills-animation.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/keranbyge/keranbyge/main/skills-animation.svg" width="100%"/>
 </p>
 
 ---
