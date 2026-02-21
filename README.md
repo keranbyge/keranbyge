@@ -37,6 +37,9 @@
   <a href="https://x.com/keranbyge" target="_blank">
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/sunku_saikiran/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
   <a href="https://www.linkedin.com/in/sai-kiran-32316932b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
