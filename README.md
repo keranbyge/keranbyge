@@ -51,6 +51,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-E67E22?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/EXPRESS.JS-2C3E50?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
