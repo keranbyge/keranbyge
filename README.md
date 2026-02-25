@@ -1,7 +1,12 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Hi,%20I'm%20Sai%20Kiran&fontSize=40&fontColor=ffffff&color=0:8A2BE2,100:4169E1" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Hi,%20I'm%20Sai%20Kiran&fontSize=40&fontColor=ffffff&color=0:8A2BE2,100:4169E1" />
+
+<p align="right" style="margin-top:-180px; margin-right:30px;">
+  <img src="https://komarev.com/ghpvc/?username=keranbyge&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
 </p>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&animation=fadeIn" />
@@ -13,7 +18,7 @@ Full-Stack Developer | Building Real-World, Scalable Applications
 
 ---
 
-##   Socials
+## Socials
 
 <p>
 <a href="mailto:sunkusaikiran@gmail.com">
@@ -31,7 +36,7 @@ Full-Stack Developer | Building Real-World, Scalable Applications
 
 ---
 
-##   Skills & Tools
+## Skills & Tools
 
 <p>
 
@@ -57,11 +62,12 @@ Full-Stack Developer | Building Real-World, Scalable Applications
 
 ---
 
-##   My Contributions
+## My Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keranbyge&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" />
 </p>
+
 ---
 
 <h3 align="center">Thanks for stopping by! 😊</h3>
