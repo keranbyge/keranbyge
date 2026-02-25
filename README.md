@@ -1,11 +1,14 @@
-<h1 align="center">Hey there 👋, I'm Sai Kiran!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keranbyge&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Hi,%20I'm%20Sai%20Kiran&fontSize=40&fontColor=ffffff&color=0:8A2BE2,100:4169E1" />
 </p>
 
 <p align="center">
-Full-Stack Developer | Building Real-World, Scalable Applications 🚀
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&animation=fadeIn" />
+</p>
+
+<p align="center">
+Full-Stack Developer | Building Real-World, Scalable Applications 
 </p>
 
 ---
