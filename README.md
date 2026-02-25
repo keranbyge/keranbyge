@@ -1,85 +1,88 @@
-<!-- FIXED SIZE HERO BANNER -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:2b1055,100:7597de&height=180&section=header&text=Hi,%20I'm%20Sai%20Kiran&fontSize=42&fontColor=ffffff&animation=fadeIn"
-    width="100%"
-  />
-</p>
+<div align="center">
 
-<!-- SHORT CENTERED RED LINE -->
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="70%"
-    height="2"
-  />
-</p>
+# Hi, I'm Sai Kiran 👋
 
-<h3 align="center">
-  Full Stack Developer | Building End-to-End Applications
-</h3>
+### 🚀 Full Stack Developer | Building End-to-End Applications
 
-<!-- SHORT CENTERED RED LINE -->
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="70%"
-    height="2"
-  />
-</p>
+</div>
 
 ---
 
-## ▾ Socials
+## 👨‍💻 About Me
+
+- 🔭 Currently building scalable full-stack applications  
+- 🌱 Exploring AI + Backend Systems  
+- 💡 Passionate about solving real-world problems  
+- 📍 India  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://x.com/keranbyge" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sunku_saikiran/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sai-kiran-32316932b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
----
+<a href="https://x.com/YOUR_USERNAME" target="blank">
+<img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
-## ▾ Skills & Tools
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVA-E67E22?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EXPRESS.JS-2C3E50?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<a href="mailto:sunkusaikiran@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
 
+## 🛠️ Skills & Tools
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### 🚀 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Pothole Reporter
+AI-based road damage detection system.
+
+### 🔹 Dev Assets
+Image & file storage app using Next.js + Supabase.
+
+### 🔹 Spotify API Integration
+Music API integration using Java backend.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    width="70%"
-    height="2"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=keranbyge&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keranbyge&theme=radical" />
 </p>
+
+---
+
+### ⭐ Let's Build Something Amazing Together!
