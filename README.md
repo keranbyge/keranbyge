@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=3&section=header&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=3&section=header&animation=fadeIn" />
 </p>
 
 <p align="center">
