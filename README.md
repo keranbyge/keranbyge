@@ -52,9 +52,9 @@ Full-Stack Developer | Building Real-World, Scalable Applications
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 
