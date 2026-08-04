@@ -46,14 +46,14 @@ Full-Stack Developer | Building Real-World, Scalable Applications
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 <br/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+
 
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
