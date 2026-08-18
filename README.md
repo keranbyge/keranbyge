@@ -65,7 +65,10 @@ Full-Stack Developer | Building Real-World, Scalable Applications
 ## My Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keranbyge&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=keranbyge&show_icons=true&theme=github_dark&hide_border=true"
+    width="500"
+  />
 </p>
 
 ---
