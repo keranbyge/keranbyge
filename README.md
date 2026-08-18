@@ -62,15 +62,3 @@ Full-Stack Developer | Building Real-World, Scalable Applications
 
 ---
 
-## My Contributions
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=keranbyge&show_icons=true&theme=github_dark&hide_border=true"
-    width="500"
-  />
-</p>
-
----
-
-<h3 align="center">Thanks for stopping by!</h3>
