@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-Full-Stack  | Building Real-World, Scalable Applications
+Full-Stack Developer | Building Real-World, Scalable Applications
 </p>
 
 ---
